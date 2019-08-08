@@ -1,0 +1,21 @@
+server:
+  port: 8081
+
+#spring:
+#  datasource:
+#    #name: local
+#    url: jdbc:mysql://localhost:3306/mydb?useUnicode=true&characterEncoding=utf8&useSSL=false
+#    username: root
+#    password: Root@123456
+#    #使用druid数据源
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    driver-class-name: com.mysql.jdbc.Driver
+#
+#mybatis:
+#  mapper-locations: classpath\:generator\\mapper/*.xml
+#  type-aliases-package: com.demo.auto.model
+#    #type: org.apache.commons.dbcp.BasicDataSource
+
+
+
+
